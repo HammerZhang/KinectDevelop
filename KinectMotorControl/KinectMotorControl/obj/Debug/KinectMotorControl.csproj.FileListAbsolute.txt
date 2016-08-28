@@ -1,0 +1,13 @@
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\bin\Debug\KinectMotorControl.exe.config
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\bin\Debug\KinectMotorControl.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\bin\Debug\KinectMotorControl.pdb
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\App.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl_MarkupCompile.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl.g.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl.Properties.Resources.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectMotorControl\KinectMotorControl\obj\Debug\KinectMotorControl.pdb

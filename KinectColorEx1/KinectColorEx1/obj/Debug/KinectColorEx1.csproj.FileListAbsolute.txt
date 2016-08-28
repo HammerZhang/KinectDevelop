@@ -1,0 +1,13 @@
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\bin\Debug\KinectColorEx1.exe.config
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\bin\Debug\KinectColorEx1.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\bin\Debug\KinectColorEx1.pdb
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\App.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1_MarkupCompile.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1.g.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1.Properties.Resources.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectColorEx1\KinectColorEx1\obj\Debug\KinectColorEx1.pdb

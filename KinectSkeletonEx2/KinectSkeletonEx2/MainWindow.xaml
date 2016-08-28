@@ -1,0 +1,20 @@
+﻿<Window x:Class="KinectSkeletonEx2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="480" Width="640">
+    <Grid x:Name="LayRoot" Background="White" Height="480" Width="640">
+        <Canvas Name="SkeletonCanvas" Visibility="Visible">
+            <Ellipse Canvas.Left="0" Canvas.Top="0" Height="10" Name="headPoint" Width="10" Fill="Red" />
+            <Ellipse Canvas.Left="10" Canvas.Top="0" Height="10" Name="shouldercenterPoint" Width="10" Fill="Blue" />
+            <Ellipse Canvas.Left="20" Canvas.Top="0" Height="10" Name="shoulderrightPoint" Width="10" Fill="Orange" />
+            <Ellipse Canvas.Left="30" Canvas.Top="0" Height="10" Name="shoulderleftPoint" Width="10" Fill="Crimson" />
+            <Ellipse Canvas.Left="40" Canvas.Top="0" Height="10" Name="handleftPoint" Width="10" Fill="Indigo" />
+            <Ellipse Canvas.Left="50" Canvas.Top="0" Height="10" Name="handrightPoint" Width="10" Fill="DodgerBlue" />
+            <Ellipse Canvas.Left="60" Canvas.Top="0" Height="10" Name="twistleftPoint" Width="10" Fill="Purple" />
+            <Ellipse Canvas.Left="70" Canvas.Top="0" Height="10" Name="twistrightPoint" Width="10" Fill="Black" />
+            <Ellipse Canvas.Left="80" Canvas.Top="0" Height="10" Name="elbowleftPoint" Width="10" Fill="Green" />
+            <Ellipse Canvas.Left="90" Canvas.Top="0" Height="10" Name="elbowrightPoint" Width="10" Fill="Green" />
+            <Image Height="311" Name="ColorImageElement" Stretch="Fill" Width="503" />
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\bin\Debug\KinectSkeletonEx2.exe.config
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\bin\Debug\KinectSkeletonEx2.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\bin\Debug\KinectSkeletonEx2.pdb
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\App.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2_MarkupCompile.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2.g.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2.Properties.Resources.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEx2\KinectSkeletonEx2\obj\Debug\KinectSkeletonEx2.pdb

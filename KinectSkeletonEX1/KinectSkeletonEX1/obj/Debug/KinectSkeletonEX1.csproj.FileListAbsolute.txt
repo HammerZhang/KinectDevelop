@@ -1,0 +1,13 @@
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\bin\Debug\KinectSkeletonEX1.exe.config
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\bin\Debug\KinectSkeletonEX1.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\bin\Debug\KinectSkeletonEX1.pdb
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\App.g.cs
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1_MarkupCompile.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1.g.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1.Properties.Resources.resources
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSkeletonEX1\KinectSkeletonEX1\obj\Debug\KinectSkeletonEX1.pdb

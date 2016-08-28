@@ -1,0 +1,6 @@
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectAudioEx1\KinectAudioEx1\bin\Debug\KinectAudioEx1.exe.config
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectAudioEx1\KinectAudioEx1\obj\Debug\KinectAudioEx1.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectAudioEx1\KinectAudioEx1\bin\Debug\KinectAudioEx1.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectAudioEx1\KinectAudioEx1\bin\Debug\KinectAudioEx1.pdb
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectAudioEx1\KinectAudioEx1\obj\Debug\KinectAudioEx1.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectAudioEx1\KinectAudioEx1\obj\Debug\KinectAudioEx1.pdb

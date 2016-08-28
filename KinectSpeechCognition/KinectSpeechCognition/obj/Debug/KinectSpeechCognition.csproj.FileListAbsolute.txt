@@ -1,0 +1,6 @@
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSpeechCognition\KinectSpeechCognition\bin\Debug\KinectSpeechCognition.exe.config
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSpeechCognition\KinectSpeechCognition\bin\Debug\KinectSpeechCognition.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSpeechCognition\KinectSpeechCognition\bin\Debug\KinectSpeechCognition.pdb
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSpeechCognition\KinectSpeechCognition\obj\Debug\KinectSpeechCognition.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSpeechCognition\KinectSpeechCognition\obj\Debug\KinectSpeechCognition.exe
+D:\Program Files (x86)\VS2013\users\Documents\Projects\KinectSpeechCognition\KinectSpeechCognition\obj\Debug\KinectSpeechCognition.pdb
